@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
+	"github.com/xgswust/rockx-docker-protobuf/net/grpc/client"
+	"github.com/xgswust/rockx-docker-protobuf/net/grpc/server"
 	"log"
-	"rockx-docker/net/grpc/client"
-	"rockx-docker/net/grpc/server"
 	"time"
 )
 

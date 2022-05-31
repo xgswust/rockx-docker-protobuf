@@ -1,4 +1,4 @@
-module rockx-docker
+module github.com/xgswust/rockx-docker-protobuf
 
 go 1.18
 

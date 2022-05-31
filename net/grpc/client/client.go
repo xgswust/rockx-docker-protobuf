@@ -2,10 +2,10 @@ package client
 
 import (
 	"context"
+	"github.com/xgswust/rockx-docker-protobuf/net/grpc/config"
+	pb "github.com/xgswust/rockx-docker-protobuf/net/grpc/proto"
 	"google.golang.org/grpc"
 	"log"
-	"rockx-docker/net/grpc/config"
-	pb "rockx-docker/net/grpc/proto"
 )
 
 // Client ..
